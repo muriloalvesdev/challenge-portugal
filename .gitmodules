@@ -1,0 +1,6 @@
+[submodule "single-digit"]
+	path = single-digit
+	url = https://github.com/muriloalvesdev/single-digit.git
+[submodule "api-service"]
+	path = api-service
+	url = https://github.com/muriloalvesdev/api-service.git
